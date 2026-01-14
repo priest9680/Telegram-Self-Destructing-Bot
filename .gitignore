@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.python-version
+
+# Virtual Environment
+venv/
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project Files
+Media/
+user_sessions/
+bot.log
+settings.json
+bot_state.json
+bot_queue.db
+bot_queue.db-journal
+*.session
+*.session-journal
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backups
+*.bak
+backup/
+backup_*
+
+# Credentials and secrets
+config.py
+secrets.py
+credentials.json
+service_account.json
+
+# Uploaded files
+uploads/
+
+# Test files
+test_*
+*_test.py
+
+# Package management
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Documentation
+docs/_build/
