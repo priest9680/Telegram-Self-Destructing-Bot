@@ -16,9 +16,9 @@
 ---
 ## Note 🏷️
 
-<b>• You Can Contact Developer.</b>
- 
-[![Contact Developer](https://img.shields.io/badge/github-repo-blue?logo=github)](https://priest9680.github.io) 
+**• You can contact the developer**
+
+[![Contact Developer](https://img.shields.io/badge/Portfolio-Visit-blue?logo=github)](https://priest9680.github.io) 
 
 ---
 ### Bot Interface
