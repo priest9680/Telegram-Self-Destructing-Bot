@@ -18,7 +18,7 @@
 
 <b>• You Can Contact Developer.</b>
  
-[![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/icecube9680_bot) 
+[![Contact Developer](https://img.shields.io/badge/github-repo-blue?logo=github)](https://priest9680.github.io) 
 
 ---
 ### Bot Interface
